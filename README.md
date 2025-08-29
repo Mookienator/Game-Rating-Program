@@ -1,2 +1,2 @@
-# Game-Rating-Program
-After playing a game you can log it on this program, giving your rating of it. Then you can view all of your previous rankings in a leaderboard and see your favourite games.
+## Introduction
+An interactive journal to help you record your past games played. Look back at the leaderboard to see your favourite games along with many different useful stats about them
