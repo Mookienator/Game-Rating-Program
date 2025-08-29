@@ -10,3 +10,9 @@ An simple program to help you record your past games played. Look back at the le
 - select a game to see its description or to delete it
 - "Filter By" option to only show games of a certain genre
 - "Sort By" option which allows you to see the games in different orders
+- See stats of a given genre such as count, average, max and min
+
+## 3. Credit
+
+https://github.com/rdbende/Sun-Valley-ttk-theme - Sun Valley ttk Theme
+  
